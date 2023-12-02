@@ -116,11 +116,14 @@ else:
 ## Sample Input and Output
 
 i)
-![Alt text](image.png)
+![image](https://github.com/23008344/Search-Algorithm/assets/145742655/0ce14e6d-00e6-4d42-9582-a5ac77dc87d3)
+
 ii)
-![Alt text](image-1.png)
+![image](https://github.com/23008344/Search-Algorithm/assets/145742655/deeaff69-cbe4-4837-8f85-f7219c0a1f48)
+
 iii)
-![Alt text](image-2.png)
+![image](https://github.com/23008344/Search-Algorithm/assets/145742655/5a4c7a1a-8d29-4e62-8ae0-07634c4386a1)
+
 
 
 ## Result
